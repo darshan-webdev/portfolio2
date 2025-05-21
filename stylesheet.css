@@ -1,0 +1,90 @@
+body{
+    font-family: 'Poppins', sans-serif;
+      background-color: #f0f2f5;
+      scroll-behavior: smooth;
+}
+
+
+
+#navi{
+   background-color:  #4B352A;
+   position: sticky;
+  z-index: 100;
+  left: 0;
+  top:0;
+    
+}
+
+
+
+
+
+.navbar-brand, .nav-link {
+    color: #fff !important;
+   
+   
+  }
+
+  .navbar-toggler-icon{
+    background-color: #fff;
+  }
+.bin{
+    text-align: center;
+    padding: 100px;
+    margin-top: 5em;
+  
+  
+}
+
+.vio{
+    display: flex;
+    justify-content: center;
+}
+  #hero{
+    background-color: #CA7842;
+   
+  }
+  
+  #hero h1{
+    font-size: 1.75rem;
+    font-weight: bold;
+  }
+
+  .p1{
+    border-radius: px;
+    margin-top: 0.65em;
+  }
+
+  #about{
+   background-color:   #f8eeeb;
+  }
+.ab1
+{
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+.ab1:hover{
+    border-bottom: 1px solid #CA7842;
+}
+
+.lead{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: 100;
+   
+}
+
+
+
+    
+.card:hover{
+
+    transform: translateY(-10px);
+    transition: 0.8s ease-in-out;
+}
+
+
+
+
+   
+
